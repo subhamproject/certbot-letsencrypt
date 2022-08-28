@@ -1,0 +1,7 @@
+https://nandovieira.com/using-lets-encrypt-in-development-with-nginx-and-aws-route53
+
+https://johnrix.medium.com/automating-dns-challenge-based-letsencrypt-certificates-with-aws-route-53-8ba799dd207b
+
+https://vigneshn.in/setting-up-lets-encrypt-on-amazon-linux-2-in-aws/
+
+https://medium.com/@csmunuku/aws-route-53-create-an-a-record-alias-fd426eb1111
